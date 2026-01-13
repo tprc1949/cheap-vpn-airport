@@ -19,16 +19,16 @@
 #### 机场不适合用来打游戏！套餐价格和内容可能发生变化，以实际为准
 |创建|官网<br>(点击跳转)|协议|节点数|限时|不限时|其他|
 |:-:|:-:|:-:|:-:|-|-|-|
-|2023.05.01|[**农夫山泉**](https://ttt.nfsq.us/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 永久 / 200 GB<br>70 ￥ / 永久 / 1000 GB**|订阅链接用后即焚<br>延迟低，兼顾速度与价格，<br>大部分是亚洲节点|
-|2023.03.09|[**亏本机场**](https://dash.knjc.cfd/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|延迟较低，极致性价比|
-|2022.11.06|[**赔钱机场**](https://xn--cp3a08l.com/#/register?code=yayApaSY)| vless、hy2 |72|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|延迟较低，节点很多|
-|2022.12.07|[**一分机场**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |56|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|延迟低，节点多|
-|2025.03.18|[**良心云**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |-|**6 ￥ / 月 / 1000 GB**|**149 ￥ / 永久 / 10000 GB**|适合重度用户，解锁流媒体|
-|2023.07.01|[**蜂窝云**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |49|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|订阅链接5分钟有效<br>延迟极低，<br>**限时套餐解锁奈飞VIP，先问客服**|
-|2023.05.04|[**自由猫**](https://us.freecat.cc/register?code=yA5d4GFo)| Trojan、ss |-|**9 ￥ / 月 / 100 GB**|**50 ￥ / 永久 / 500 GB**||
-|2022.04.26|[**魔戒**](https://mojie.app/register?aff=qt6C1VtA)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**|解锁流媒体|
-|2024.11.05|[**牛逼机场**](https://6.66jc.top/#/login?code=UJLSfGIa)| vmess、hy2、ss |-|**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**|适合中度用户|
-|2024.05.31|[**极速云**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| Trojan、vmess |98|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|节点倍率8倍，1000G等于125G|
+|2023.05.01|农夫山泉<br>[**官网1**](https://www.nfsqttt.com/#/register?code=JjW59PTY)<br>[**官网2**](https://ttt.nfsq.us/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 永久 / 200 GB<br>70 ￥ / 永久 / 1000 GB**|订阅链接用后即焚<br>延迟低，兼顾速度与价格，<br>大部分是亚洲节点|
+|2023.03.09|亏本机场<br>[**官网1**](https://dash.knjc.cfd/#/register?code=Lhpm2QMs)<br>[**官网2**](https://亏本机场.site/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|延迟较低，极致性价比|
+|2022.11.06|赔钱机场<br>[**官网1**](https://xn--cp3a08l.com/#/register?code=yayApaSY)| vless、hy2 |72|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|延迟较低，节点很多|
+|2022.12.07|一分机场<br>[**官网1**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |56|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|延迟低，节点多|
+|2025.03.18|良心云<br>[**官网1**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |-|**6 ￥ / 月 / 1000 GB**|**149 ￥ / 永久 / 10000 GB**|适合重度用户，解锁流媒体|
+|2023.07.01|蜂窝云<br>[**官网1**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |49|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|订阅链接5分钟有效<br>延迟极低，<br>**限时套餐解锁奈飞VIP，先问客服**|
+|2023.05.04|自由猫<br>[**官网1**](https://us.freecat.cc/register?code=yA5d4GFo)| Trojan、ss |-|**9 ￥ / 月 / 100 GB**|**50 ￥ / 永久 / 500 GB**||
+|2022.04.26|魔戒<br>[**官网1**](https://mojie.app/register?aff=qt6C1VtA)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**|解锁流媒体|
+|2024.11.05|牛逼机场<br>[**官网1**](https://6.66jc.top/#/login?code=UJLSfGIa)| vmess、hy2、ss |-|**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**|适合中度用户|
+|2024.05.31|极速云<br>[**官网1**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| Trojan、vmess |98|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|节点倍率8倍，1000G等于125G|
 
 
 ---

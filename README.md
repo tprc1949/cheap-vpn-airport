@@ -19,8 +19,8 @@
 #### 机场不适合用来打游戏！套餐价格和内容可能发生变化，以实际为准
 |创建|官网<br>(🪜：被墙)|协议|节点数|限时|不限时|其他|
 |:-:|:-:|:-:|:-:|-|-|-|
-|2023.05.01|农夫山泉(**专线**)<br>[**官网**](https://www.nfsqttt.com/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 永久 / 200 GB<br>70 ￥ / 永久 / 1000 GB**|订阅链接用后即焚<br>延迟低，兼顾速度与价格|
-|2023.07.01|蜂窝云(**专线**)<br>[**官网1**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |49|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|订阅链接5分钟有效<br>**专线**，延迟极低，<br>**解锁奈飞VIP问客服**|
+|2023.05.01|农夫山泉【**专线**】<br>[**官网**](https://www.nfsqttt.com/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 永久 / 200 GB<br>70 ￥ / 永久 / 1000 GB**|订阅链接用后即焚<br>延迟低，兼顾速度与价格|
+|2023.07.01|蜂窝云【**专线**】<br>[**官网1**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |49|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|订阅链接5分钟有效<br>**专线**，延迟极低，<br>**解锁奈飞VIP问客服**|
 |2023.03.09|亏本机场<br>[**官网1**](https://dash.knjc.cfd/#/register?code=Lhpm2QMs)<br>[**官网2🪜**](https://亏本机场.site/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|极致性价比|
 |2022.11.06|赔钱机场<br>[**官网1**](https://xn--cp3a08l.com/#/register?code=yayApaSY)<br>[**官网2**](https://www.赔钱机场.site/#/register?code=yayApaSY)| vless、hy2 |72|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|延迟低，节点多|
 |2022.12.07|一分机场<br>[**官网1🪜**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |56|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|延迟低，节点多|

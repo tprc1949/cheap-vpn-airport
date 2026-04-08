@@ -28,26 +28,25 @@
 |创建|官网<br>(🪜：被墙)|协议|节点数|限时|不限时|其他|
 |:-:|:-:|:-:|:-:|-|-|-|
 |2023.05.01|农夫山泉🔥<br>[**官网**](https://qqq.nfsqttt.com/#/register?code=JjW59PTY)| vless、ss |24|**8 ￥ / 月 / 200 GB**|**15 ￥ / 永久 / 200 GB<br>70 ￥ / 永久 / 1000 GB**|因遭受攻击勒索，仅支持机场官方客户端使用。场主仍在修复和优化 <br> **部分专线**，兼顾速度与价格。|
-|2023.07.01|蜂窝云🔥<br>[**官网**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |49|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|**专线**，最近通报频繁，因部分线路转直连，已开放订阅链接<br>**MITM节点免登录看奈飞VIP,仅浏览器中**|
+|2023.07.01|蜂窝云🔥<br>[**官网**](https://api.fwcloud.life/auth/register?code=yBPSeL)| ss、vmess |60|**20 ￥ / 月 / 200 GB**|**22 ￥ / 永久 / 100 GB**|**专线**，最近通报频繁，因部分线路转直连，已开放订阅链接<br>**MITM节点免登录看奈飞VIP,仅浏览器中**|
 |2023.03.09|亏本机场<br>[**官网1**](https://dash.knjc.cfd/#/register?code=Lhpm2QMs)<br>[**官网2🪜**](https://亏本机场.site/#/register?code=Lhpm2QMs)| hy2、vless |21|**1.99 ￥ / 月 / 500 GB**|**9.9 ￥ / 永久 / 1234 GB**|极致性价比|
-|2022.11.06|赔钱机场<br>[**官网1**](https://xn--cp3a08l.com/#/register?code=yayApaSY)<br>[**官网2**](https://www.赔钱机场.site/#/register?code=yayApaSY)| vless、hy2 |72|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|节点多|
-|2022.12.07|一分机场<br>[**官网1🪜**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |56|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|节点多|
-|2025.03.18|良心云<br>[**官网1🪜**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |-|**6 ￥ / 月 / 1000 GB**|**21 ￥ / 永久 / 1000 GB<br>149 ￥ / 永久 / 10000 GB**|月付便宜|
+|2022.11.06|赔钱机场<br>[**官网1**](https://xn--cp3a08l.com/#/register?code=yayApaSY)<br>[**官网2**](https://www.赔钱机场.site/#/register?code=yayApaSY)| vless、hy2 |92|**5.99 ￥ / 月 / 1000 GB**|**18.9 ￥ / 永久 / 1000 GB；<br>688 ￥ / 永久可滥用 / 99999 GB**|节点多|
+|2022.12.07|一分机场<br>[**官网1🪜**](https://xn--4gqx1hgtfdmt.com/#/register?code=02AiAb3q)| hy2、vless |58|**2 ￥ / 月 / 100 GB**|**19.88 ￥ / 永久 / 1000 GB**|节点多|
+|2025.03.18|良心云<br>[**官网1🪜**](https://xn--9kqz23b19z.com/#/register?code=MMIZIeGe)| vless、hy2 |34|**6 ￥ / 月 / 1000 GB**|**21 ￥ / 永久 / 1000 GB<br>149 ￥ / 永久 / 10000 GB**|月付便宜|
 |2022.04.26|魔戒<br>[**官网1**](https://mojie.host/register?aff=qt6C1VtA)| vmess、hy2、anytls |43|无|**14.9 ￥ / 永久 / 130 GB<br>688 ￥ / 永久 / 10000 GB**||
 |2023.05.04|自由猫<br>[**官网1**](https://ziyoumao.cloud/register?code=yA5d4GFo)| vmess、hy2、anytls |未统计|**6 ￥ / 月 / 30 GB**|**50 ￥ / 永久 / 500 GB||
 |2024.11.05|牛逼机场<br>[**官网1**](https://6.66jc.top/#/login?code=UJLSfGIa)| vmess、hy2、ss |-|**6.9 ￥ / 月 / 1000 GB<br>23.90￥ / 年 / 每月200 GB**|**12.90 ￥ / 永久 / 200 GB<br>33.90 ￥ / 永久 / 2000 GB**||
-|2024.05.31|极速云🔥<br>[**官网1**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| Trojan、vmess |98|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率8倍，1000G等于125G|
-
+|2024.05.31|极速云🔥<br>[**官网1**](https://w4.rouhe88.com/#/register?code=OSjXw5aR)| Trojan、vmess |73|**15.99 ￥ / 月 / 1200 GB**|**88 ￥ / 永久 / 1000 GB**|倍率8倍，1000G等于125G|
 
 ---
-### 友情推荐：  
+### 插个广告：  
 
-[影视资源站扩展·免费·加速·去广告](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)
+[影视资源站扩展·免费·加速·去广告](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://jc.zzmy.dpdns.org)
 
 ---
 ### 免费节点
 
-[https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://zzmy.dpdns.org)
+[https://www.bsbb.cc/](https://www.bsbb.cc/?utm_source=https://jc.zzmy.dpdns.org)
 
 ---
 📢 **重要通知**：此部分仅用于对机场的重要变动及突发情况作出必要的说明。
